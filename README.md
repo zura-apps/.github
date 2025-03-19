@@ -25,7 +25,7 @@ Peningkatan Performa: Mengoptimalkan pengaturan grafis untuk gameplay yang lebih
 # Cara Mengidentifikasi Panel Zurra yang Asli
 Mengingat popularitas Panel Zurra, banyak versi palsu yang beredar. Berikut cara mengidentifikasi versi asli:
 
-Sumber Unduhan: Pastikan untuk mengunduh dari situs resmi Panel Zurra (https://panelzurra.com/).
+Sumber Unduhan: Pastikan untuk mengunduh dari situs resmi Panel Zurra.
 
 Ukuran File: Verifikasi ukuran file APK (sekitar 28 MB untuk versi terbaru).
 
